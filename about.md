@@ -4,11 +4,11 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi, I am Sumit Padhiyar. Currently pursuing MS in Computer Science from IIT Madras, India. My current research is on testing of co-operative concurrent systems using fuzzing under the guidance of <a href="http://kcsrk.info/" target="_blank">Dr. KC Sivaramakrishnan.</a> I'm currently working on a property testing tool like QuickCheck for concurrent programs.</p>
+<p align="justify">Hi, I am Sumit Padhiyar. Currently pursuing MS in Computer Science from IIT Madras, India. My current research is on testing of co-operative concurrent systems using fuzzing under the guidance of <a href="http://kcsrk.info/" target="_blank">Dr. KC Sivaramakrishnan.</a> I'm currently working on a property testing tool like QuickCheck for concurrent programs.</p>
 
-<p> I have 3.5+ years of professional experience as polyglot software engineer working on Android and iOS mobile development, web development and backend systems.</p>
+<p align="justify"> I have 3.5+ years of professional experience as polyglot software engineer working on Android and iOS mobile development, web development and backend systems.</p>
 
-<p>I am a Systems guy. I am interested in distributed systems, operating systems and databases. On personal side, I am interested in mutual funds, automobiles and traveling. If this sounds interesting and want to share some things with me, shoot me a mail!</p>
+<p align="justify">I am a Systems guy. I am interested in distributed systems, operating systems and databases. On personal side, I am interested in mutual funds, automobiles and traveling. If this sounds interesting and want to share some things with me, shoot me a mail!</p>
 
 <!-- <h2>Skills</h2>
 
