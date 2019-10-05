@@ -8,7 +8,7 @@ layout: page
 
 <p> I have 3.5+ years of professional experience as polyglot software engineer working on Android and iOS mobile development, web development and backend systems.</p>
 
-<p>I am a Systems guy. I am interested in distributed systems, operating systems and databases. On personal side, I'm much interested in Indian politics and mutual funds. If this sounds interesting and want to share some things with me, shoot me a mail!</p>
+<p>I am a Systems guy. I am interested in distributed systems, operating systems and databases. On personal side, I am interested in mutual funds, automobiles and traveling. If this sounds interesting and want to share some things with me, shoot me a mail!</p>
 
 <!-- <h2>Skills</h2>
 
